@@ -12,3 +12,10 @@
       appended
 
 ### <ol> Executing Code in the Forward Propagation Function
+
+
+## Parameter Management
+• Accessing parameters for debugging, diagnostics, and visualizations. <br>
+• Parameter initialization.<br>
+• Sharing parameters across different model components.<br>
+  
