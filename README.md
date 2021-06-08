@@ -7,4 +7,8 @@
 
 ### <ol> A Custom Block
 ### <ol> The Sequential Block
+  <li> A function to append blocks one by one to a list.
+  <li> A forward propagation function to pass an input through the chain of blocks, in the same order as they were
+      appended
+
 ### <ol> Executing Code in the Forward Propagation Function
