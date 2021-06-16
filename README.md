@@ -24,5 +24,10 @@
 • We added layers without specifying the output dimension of the previous layer. <br>
 • We even “initialized” these parameters before providing enough information to determine how many parameters our models should contain.
     
+## Custom Layers
+    To develop the layers which does not exists yet in the deep learning framework.
+• Layers without Parameters 
+• Layers with Parameters
+    
     
   
