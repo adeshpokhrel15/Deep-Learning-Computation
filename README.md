@@ -24,4 +24,5 @@
 • We added layers without specifying the output dimension of the previous layer. <br>
 • We even “initialized” these parameters before providing enough information to determine how many parameters our models should contain.
     
+    
   
