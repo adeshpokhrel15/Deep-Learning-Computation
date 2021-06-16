@@ -18,4 +18,10 @@
 • Accessing parameters for debugging, diagnostics, and visualizations. <br>
 • Parameter initialization.<br>
 • Sharing parameters across different model components.<br>
+
+## Deferred Initialization
+• We defined the network architectures without specifying the input dimensionality. <br>
+• We added layers without specifying the output dimension of the previous layer. <br>
+• We even “initialized” these parameters before providing enough information to determine how many parameters our models should contain.
+    
   
