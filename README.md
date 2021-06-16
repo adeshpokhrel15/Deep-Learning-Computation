@@ -26,7 +26,7 @@
     
 ## Custom Layers
     To develop the layers which does not exists yet in the deep learning framework.
-• Layers without Parameters 
+• Layers without Parameters <br>
 • Layers with Parameters
     
     
