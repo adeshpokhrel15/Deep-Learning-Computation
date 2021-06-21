@@ -28,6 +28,10 @@
     To develop the layers which does not exists yet in the deep learning framework.
 • Layers without Parameters <br>
 • Layers with Parameters
+
+## File I/O
+It is time to learn how to load and store both individual weight vectors and entire models. This section addresses both issues.
+
    
     
   
